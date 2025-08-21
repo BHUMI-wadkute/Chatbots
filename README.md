@@ -56,4 +56,4 @@ This repository serves as a **practical resource** for anyone interested in buil
 
 ## 🔗 Repository Link
 
-👉 [Chatbot Projects Collection](https://github.com/BHUMI-wadkute/Chatbots)
+👉 [Chatbot Projects Collection]([https://github.com/BHUMI-wadkute/Chatbots](https://github.com/BHUMI-wadkute/Chatbots))
